@@ -2,5 +2,4 @@
 
 ## 배유정👋
 
-
-* 안녕하세요. 배유정입니다.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byuuuj)](https://github.com/anuraghazra/github-readme-stats)
