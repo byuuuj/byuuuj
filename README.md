@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=5591f3&height=100&section=header" />
 
-## Bae Yu Jeong 👩🏻‍💻💛
+## Bae Yu Jeong 👩🏻‍💻💛 
 
 <br>
 
