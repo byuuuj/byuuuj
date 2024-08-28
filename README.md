@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=5591f3&height=100&section=header" />
 
-## Bae Yu Jeong 👩🏻‍💻💙
+## Bae Yu Jeong 👩🏻‍💻💛
 
 ### 기술 스택📚 <br>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,7 +18,8 @@
 ![spring security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
 
-
+<br>
+<br>
 
 
 
