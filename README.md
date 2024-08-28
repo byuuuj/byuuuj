@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byuuuj)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byuuuj&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=byuuuj)](https://solved.ac/byuuuj)
