@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=a2e7ff&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=5591f3&height=100&section=header" />
 
 ## 배유정👋
 
